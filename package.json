@@ -1,0 +1,22 @@
+{
+  "name": "nueva-carpeta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daniela-Guardia/orden-en-casa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daniela-Guardia/orden-en-casa/issues"
+  },
+  "homepage": "https://github.com/Daniela-Guardia/orden-en-casa#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
